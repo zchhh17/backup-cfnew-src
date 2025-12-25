@@ -1,0 +1,14 @@
+# 临时工作区
+work/
+repo/
+repo_src/
+repo_mirror/
+
+# 本地脚本（非最终版）
+*vNext*.sh
+*c1_*.sh
+*c2_*.sh
+
+# 本地生成的源码包（如只放 Release）
+src-*.tar.gz
+src-*.sha256
